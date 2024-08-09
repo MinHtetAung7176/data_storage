@@ -5,6 +5,7 @@
       "type": "motoko"
     }
   },
+  
   "defaults": {
     "build": {
       "args": "",
